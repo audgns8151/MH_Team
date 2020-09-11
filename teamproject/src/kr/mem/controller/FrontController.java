@@ -18,6 +18,11 @@ public class FrontController extends HttpServlet {
 			String reqUrl=request.getRequestURI();
 			System.out.println("OK");
             System.out.println("OK");
+            
+            
+            
+            System.out.println("¿ëÃ¤");
+            
 	}
 
 }
