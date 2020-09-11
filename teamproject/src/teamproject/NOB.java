@@ -1,5 +1,5 @@
 package teamproject;
 
 public class NOB {
-	//시러 그냥 파일만들거야
+	//장제열이 수정한 파일 
 }
