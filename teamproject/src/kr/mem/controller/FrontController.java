@@ -13,9 +13,9 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("*.do")
 public class FrontController extends HttpServlet {
 
-
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-System.out.println("OK");
+            System.out.println("OK");
+            System.out.println("OK");
 	}
 
 }
