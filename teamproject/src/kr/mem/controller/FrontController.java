@@ -14,15 +14,15 @@ import javax.servlet.http.HttpServletResponse;
 public class FrontController extends HttpServlet {
 
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-            //¿ëÃ¤ ¼öÁ¤ÇÔ
+            //ï¿½ï¿½Ã¤ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 			String reqUrl=request.getRequestURI();
 			System.out.println("OK");
             System.out.println("OK");
             
             
             
-            System.out.println("¿ëÃ¤");
-            
+            System.out.println("ï¿½ï¿½Ã¤");
+            // ìž˜í–ˆì–´~ 
 	}
 
 }
